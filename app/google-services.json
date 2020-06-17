@@ -1,0 +1,219 @@
+{
+  "project_info": {
+    "project_number": "177337032800",
+    "firebase_url": "https://blissful-ly.firebaseio.com",
+    "project_id": "blissful-ly",
+    "storage_bucket": "blissful-ly.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177337032800:android:45043db52e2041a8",
+        "android_client_info": {
+          "package_name": "com.capitalx.blissfully"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177337032800-dq2k1conne5fek0gpuoiftur43nru92q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.capitalx.blissfully",
+            "certificate_hash": "659f2f80cff038a3a8ce9b380d9dda4d55da0930"
+          }
+        },
+        {
+          "client_id": "177337032800-h9qltv8oidgdfl8imdf431dpbh3vr4na.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.capitalx.blissfully",
+            "certificate_hash": "2f0868c9313af436dd59cf8694e2b8de019a369b"
+          }
+        },
+        {
+          "client_id": "177337032800-v3m08tp7fb5g0l74ssb8ldg56007us11.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.capitalx.blissfully",
+            "certificate_hash": "9604d38618e242731ad5898e8b25eb9dd0e05c7f"
+          }
+        },
+        {
+          "client_id": "177337032800-p9i8o1d50mcg2qtp7k6t39d8t0if5jlq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.capitalx.blissfully",
+            "certificate_hash": "6a519353e3ecb97c0d91b874944f03ac36f54729"
+          }
+        },
+        {
+          "client_id": "177337032800-gkb001et5o3pl4vdlqlk202uhlikun1q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.capitalx.blissfully",
+            "certificate_hash": "c9a8bf0da6e4c32f0cd4d8dc8398fa6c3042a542"
+          }
+        },
+        {
+          "client_id": "177337032800-217tbte9r8t95m08cl0k7kt4j5vs27jd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.capitalx.blissfully",
+            "certificate_hash": "166b78a984f4ed1563b8a5a9968e7d55cfcf3098"
+          }
+        },
+        {
+          "client_id": "177337032800-07u672030o72lflfqu2dc03a8lc0g55i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.capitalx.blissfully",
+            "certificate_hash": "427d59572f5df7d982bbbbdcbad4e58fc146a1c3"
+          }
+        },
+        {
+          "client_id": "177337032800-9n3uq8c499uo96srfi3t3nng4e66h571.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.capitalx.blissfully",
+            "certificate_hash": "eda1d50aeb37d763b7d0e6371bd6500ff8f556b6"
+          }
+        },
+        {
+          "client_id": "177337032800-esmqeolnscln2b31e3iumql09cd2pep8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.capitalx.blissfully",
+            "certificate_hash": "4b970c684912903946d9be6940571d9e57f5c574"
+          }
+        },
+        {
+          "client_id": "177337032800-5615371qejv5a527rcv03vvfn22331qg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.capitalx.blissfully",
+            "certificate_hash": "2cf8c514fdfaecc2f1393f0f7aedce3f6eaf30c2"
+          }
+        },
+        {
+          "client_id": "177337032800-hi9ear49blgdal00j66skvb1epj2f5l9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.capitalx.blissfully",
+            "certificate_hash": "7adf72d715c44aa4b26e674246af8f0a2015572c"
+          }
+        },
+        {
+          "client_id": "177337032800-th11tutsik9alig2it7u3nm0ujd7q4ca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.capitalx.blissfully",
+            "certificate_hash": "6844dfb600aa95e9613bdc040d564f1fc3c3a96f"
+          }
+        },
+        {
+          "client_id": "177337032800-7ajoqlfmftuc6n515lqgcepipfv6uus9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.capitalx.blissfully",
+            "certificate_hash": "1dceb1b7341cd0b6962f6615450a933346b52365"
+          }
+        },
+        {
+          "client_id": "177337032800-tb3u69j5b8g8vjvv8i90986s1qa41uvb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.capitalx.blissfully",
+            "certificate_hash": "71aae5c1191292e07d68f3d30c47d86f7e2a1bea"
+          }
+        },
+        {
+          "client_id": "177337032800-io52gejeijoujckfjuefvot4b9aeverj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvKg73CqCmTOm3FyaWKpK8oODyf-XD8HM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177337032800-bti0240n7s0g1p3ei9pb1jtiuapmk4mu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "177337032800-blp515sq4niqbaaocv3e9sp666irncjr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ai.rever.urbanyogimacapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177337032800:android:34a180bc6b4fa964002305",
+        "android_client_info": {
+          "package_name": "com.capitalx.uygmflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177337032800-p39lm00rd9rfq5jqvmqjet1d65ap5olt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.capitalx.uygmflutter",
+            "certificate_hash": "6a519353e3ecb97c0d91b874944f03ac36f54729"
+          }
+        },
+        {
+          "client_id": "177337032800-glgbp70f3m9mf8a1efims771pll9tofg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.capitalx.uygmflutter",
+            "certificate_hash": "1dceb1b7341cd0b6962f6615450a933346b52365"
+          }
+        },
+        {
+          "client_id": "177337032800-kgoka740test3p5dpcsml0htomij180g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.capitalx.uygmflutter",
+            "certificate_hash": "71aae5c1191292e07d68f3d30c47d86f7e2a1bea"
+          }
+        },
+        {
+          "client_id": "177337032800-io52gejeijoujckfjuefvot4b9aeverj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvKg73CqCmTOm3FyaWKpK8oODyf-XD8HM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177337032800-bti0240n7s0g1p3ei9pb1jtiuapmk4mu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "177337032800-blp515sq4niqbaaocv3e9sp666irncjr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ai.rever.urbanyogimacapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
